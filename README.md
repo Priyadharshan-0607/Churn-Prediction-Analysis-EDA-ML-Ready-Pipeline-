@@ -8,8 +8,7 @@ Example (Churn project):
 Companies lose revenue when customers leave. This project analyzes customer behaviour to identify key churn drivers and builds an ML-ready pipeline to predict and reduce churn.
 
 # Dataset Source
-Mention where the data came from and add the link.
-Example:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 Dataset: Telco Customer Churn Dataset (Kaggle)
 
