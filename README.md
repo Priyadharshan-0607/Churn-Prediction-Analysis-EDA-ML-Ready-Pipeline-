@@ -1,0 +1,2 @@
+# Churn-Prediction-Analysis-EDA-ML-Ready-Pipeline-
+Goal  Analyze customer data to understand why customers leave (churn), discover the most important retention factors, and prepare a clean, feature-engineered dataset that is ready to train ML models for churn prediction.  This is an advanced analytics + ML preparation project focused on:  Deep EDA  Strong feature engineering  Business storytelling
